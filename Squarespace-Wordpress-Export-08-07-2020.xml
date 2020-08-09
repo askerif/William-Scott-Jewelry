@@ -1,0 +1,2220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>WILLIAM SCOTT</title>
+    <link>https://lynx-sphere-s9s9.squarespace.com</link>
+    <pubDate>Wed, 29 Jul 2020 11:33:38 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>-1394129983</wp:author_id>
+      <wp:author_login>askerif@gmail.com</wp:author_login>
+      <wp:author_email>askerif@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Aske Rif]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Aske]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Rif]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home-1</link>
+      <title>Home</title>
+      <pubDate>Thu, 06 Aug 2020 19:16:00 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5f216106f57a1f3b8b46ebd7" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--large
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+     has-background
+    black'
+  data-section-id="5f2c50159915506416e6ba69"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot; : {
+    &quot;id&quot; : &quot;5f2c5041ffc9f41be88f4a75&quot;,
+    &quot;recordType&quot; : 2,
+    &quot;addedOn&quot; : 1596739649527,
+    &quot;updatedOn&quot; : 1596741349451,
+    &quot;workflowState&quot; : 1,
+    &quot;publishOn&quot; : 1596739649527,
+    &quot;authorId&quot; : &quot;5f215e9081603a0b23d9a428&quot;,
+    &quot;systemDataId&quot; : &quot;1596739664851-5VPP3MCI73TB3CNK2ZLY&quot;,
+    &quot;systemDataVariants&quot; : &quot;1998x1008,100w,300w,500w,750w,1000w,1500w&quot;,
+    &quot;systemDataSourceType&quot; : &quot;PNG&quot;,
+    &quot;filename&quot; : &quot;Brug denne.png&quot;,
+    &quot;mediaFocalPoint&quot; : {
+      &quot;x&quot; : 0.5,
+      &quot;y&quot; : 0.5,
+      &quot;source&quot; : 3
+    },
+    &quot;colorData&quot; : {
+      &quot;topLeftAverage&quot; : &quot;161515&quot;,
+      &quot;topRightAverage&quot; : &quot;262624&quot;,
+      &quot;bottomLeftAverage&quot; : &quot;171716&quot;,
+      &quot;bottomRightAverage&quot; : &quot;29241e&quot;,
+      &quot;centerAverage&quot; : &quot;595554&quot;,
+      &quot;suggestedBgColor&quot; : &quot;1a1a1a&quot;
+    },
+    &quot;urlId&quot; : &quot;73gioslfm6u39dtju4lpum9nzskwwh&quot;,
+    &quot;title&quot; : &quot;&quot;,
+    &quot;body&quot; : null,
+    &quot;likeCount&quot; : 0,
+    &quot;commentCount&quot; : 0,
+    &quot;publicCommentCount&quot; : 0,
+    &quot;commentState&quot; : 2,
+    &quot;unsaved&quot; : false,
+    &quot;author&quot; : {
+      &quot;id&quot; : &quot;5f215e9081603a0b23d9a428&quot;,
+      &quot;displayName&quot; : &quot;Aske Rif&quot;,
+      &quot;firstName&quot; : &quot;Aske&quot;,
+      &quot;lastName&quot; : &quot;Rif&quot;,
+      &quot;avatarUrl&quot; : &quot;https://static1.squarespace.com/static/images/5f215e906914253f4809e349&quot;,
+      &quot;bio&quot; : &quot;&quot;,
+      &quot;avatarAssetUrl&quot; : &quot;https://static1.squarespace.com/static/images/5f215e906914253f4809e349&quot;
+    },
+    &quot;assetUrl&quot; : &quot;https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596739664851-5VPP3MCI73TB3CNK2ZLY/ke17ZwdGBToddI8pDm48kA5gJeBA_2eeQEYmTFt6kl97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UT4EzPGmt_CPBPs1nMoS6OjcimLSgR8wYC00BwGXzDtUm4bjm9DAHF2kOsIZRJKXnA/Brug+denne.png&quot;,
+    &quot;contentType&quot; : &quot;image/png&quot;,
+    &quot;items&quot; : [ ],
+    &quot;pushedServices&quot; : { },
+    &quot;pendingPushedServices&quot; : { },
+    &quot;recordTypeLabel&quot; : &quot;image&quot;,
+    &quot;originalSize&quot; : &quot;1998x1008&quot;
+  },
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--large&quot;,
+  &quot;customSectionHeight&quot; : 85,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--medium&quot;,
+  &quot;sectionTheme&quot; : &quot;black&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+      
+      <img alt="" data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596739664851-5VPP3MCI73TB3CNK2ZLY/ke17ZwdGBToddI8pDm48kA5gJeBA_2eeQEYmTFt6kl97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UT4EzPGmt_CPBPs1nMoS6OjcimLSgR8wYC00BwGXzDtUm4bjm9DAHF2kOsIZRJKXnA/Brug+denne.png" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596739664851-5VPP3MCI73TB3CNK2ZLY/ke17ZwdGBToddI8pDm48kA5gJeBA_2eeQEYmTFt6kl97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UT4EzPGmt_CPBPs1nMoS6OjcimLSgR8wYC00BwGXzDtUm4bjm9DAHF2kOsIZRJKXnA/Brug+denne.png" data-image-dimensions="1998x1008" data-image-focal-point="0.5,0.5" alt="Brug denne.png"  data-load="false" />
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.15" class="section-background-overlay"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5f2c50159915506416e6ba69"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1596739593628_3560"><div class="sqs-block-content"><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><h1 style="text-align:center;white-space:pre-wrap;">WILLIAM SCOTT</h1></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Wed, 29 Jul 2020 11:34:36 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5f215ecceb9e251745492d51" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--top
+    
+    '
+  data-section-id="5f215ecceb9e251745492d54"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--small&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--top&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot; : 100,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5f215ecceb9e251745492d54"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block button-block sqs-block-button sqs-col-4 span-4 float float-right" data-block-type="53" id="block-8f62e74e944bdfa2b5a9"><div class="sqs-block-content">
+
+<div class="sqs-block-button-container--right" data-animation-role="button" data-alignment="right" data-button-size="small">
+	<a href="/shop" class="sqs-block-button-element--small sqs-block-button-element" >Shop Now</a>
+</div>
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-c9e1560fec6634df986a"><div class="sqs-block-content"><h2 style="white-space:pre-wrap;">New In</h2></div></div></div><div class="col sqs-col-0 span-0"></div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"></div><div class="col sqs-col-8 span-8"><div class="row sqs-row"><div class="col sqs-col-4 span-4"></div><div class="col sqs-col-4 span-4"></div></div></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5f215ecceb9e251745492d56"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot; : 30,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--custom&quot;,
+  &quot;customContentWidth&quot; : 45,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+       style="width: 45%;" 
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5f215ecceb9e251745492d56"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5550d7049f516cb2b15e"><div class="sqs-block-content"><h4 style="text-align:center;white-space:pre-wrap;">Made with love in Los Angeles from all natural eco-friendly materials.</h4></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5f215ecceb9e251745492d58"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5f215ecceb9e251745492d58"><div class="row sqs-row"><div class="col sqs-col-4 span-4"></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-c8dfa86aafee9199b8dd"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-a200fe8e98a2d5256851"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-focus-in
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2500.0px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+                style="padding-bottom:150.0%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                
+              "
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5d02d798cc25920001b61816/1587757476336-N31G7MJXSMQ4QZSEJ6CO/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/lauren-winter-20150715-IMG_0352-v1-FINAL.jpg" alt="lauren-winter-20150715-IMG_0352-v1-FINAL.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5d02d798cc25920001b61816/1587757476336-N31G7MJXSMQ4QZSEJ6CO/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/lauren-winter-20150715-IMG_0352-v1-FINAL.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5d02d798cc25920001b61816/1587757476336-N31G7MJXSMQ4QZSEJ6CO/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/lauren-winter-20150715-IMG_0352-v1-FINAL.jpg" data-image-dimensions="2500x3750" data-image-focal-point="0.5,0.5" alt="lauren-winter-20150715-IMG_0352-v1-FINAL.jpg" data-load="false" data-image-id="5f215ecceb9e251745492d46" data-type="image" />
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5f215ecceb9e251745492d5a"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5f215ecceb9e251745492d5a"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-e0aa347e2a510f36050d"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-focus-in
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2500.0px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+                style="padding-bottom:150.0%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                
+              "
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5d02d798cc25920001b61816/1587757679533-6TI5Z3URI2W2C6F1LCAN/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/lauren-winter-20150715-IMG_9299-v1-FINAL.jpg" alt="lauren-winter-20150715-IMG_9299-v1-FINAL.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5d02d798cc25920001b61816/1587757679533-6TI5Z3URI2W2C6F1LCAN/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/lauren-winter-20150715-IMG_9299-v1-FINAL.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5d02d798cc25920001b61816/1587757679533-6TI5Z3URI2W2C6F1LCAN/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/lauren-winter-20150715-IMG_9299-v1-FINAL.jpg" data-image-dimensions="2500x3750" data-image-focal-point="0.5,0.5" alt="lauren-winter-20150715-IMG_9299-v1-FINAL.jpg" data-load="false" data-image-id="5f215ecceb9e251745492d49" data-type="image" />
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-cc19ffb97d06a0fba8a0"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-4 span-4"></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--narrow
+    
+    horizontal-alignment--center
+    vertical-alignment--bottom
+    
+    '
+  data-section-id="5f215ecceb9e251745492d5c"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--small&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--bottom&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--narrow&quot;,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5f215ecceb9e251745492d5c"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-456a86b657b324fb1625"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;"><a href="/lookbook">View Lookbook</a></h2></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      gallery-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5f215ecceb9e251745492d5e"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+        <div class="gallery gallery-section-wrapper" style="min-height: 100px;">
+          <div class="gallery" style="min-height: 100px;">
+  
+
+  
+
+  
+    <!-- Gallery Strips -->
+<div
+  class="gallery-strips gallery-strips--layout-strips"
+  data-controller="GalleryStrips"
+  data-section-id="5f215ecceb9e251745492d5e"
+  data-animation="site-default"
+  data-lightbox=""
+  data-width="full"
+  data-props='{
+  "scrollAnimation" : "site-default",
+  "gutter" : 0,
+  "rowHeight" : 300,
+  "width" : "full",
+  "lightboxEnabled" : false
+}'
+  data-show-captions="false"
+  data-gallery-caption-beta-flag="false"
+>
+  <div class="gallery-strips-wrapper">
+    
+    <figure class="gallery-strips-item">
+      <div class="gallery-strips-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          
+          
+            
+          <img data-src="https://images.squarespace-cdn.com/content/v1/5d02d798cc25920001b61816/1587758139960-E6HIVHJV9ITG7B3AEHCY/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/lauren-winter-20150715-IMG_7450-v1-FINAL.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5d02d798cc25920001b61816/1587758139960-E6HIVHJV9ITG7B3AEHCY/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/lauren-winter-20150715-IMG_7450-v1-FINAL.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="lauren-winter-20150715-IMG_7450-v1-FINAL.jpg"  data-load="false" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-strips-item">
+      <div class="gallery-strips-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          
+          
+            
+          <img data-src="https://images.squarespace-cdn.com/content/v1/5d02d798cc25920001b61816/1587758261288-OTRMED62HCYJ198J61UU/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/lauren-winter-20150715-IMG_0636-v1-FINAL.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5d02d798cc25920001b61816/1587758261288-OTRMED62HCYJ198J61UU/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/lauren-winter-20150715-IMG_0636-v1-FINAL.jpg" data-image-dimensions="2500x3750" data-image-focal-point="0.5,0.5" alt="lauren-winter-20150715-IMG_0636-v1-FINAL.jpg"  data-load="false" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+  </div>
+  <div class="gallery-lightbox-outer-wrapper" data-lightbox="false" data-controller="Lightbox">
+    <div
+  role="dialog"
+  aria-label=""
+  class="gallery-lightbox ">
+  <div class="gallery-lightbox-background"></div>
+
+<div class="gallery-lightbox-header">
+  <button class="gallery-lightbox-close-btn" aria-label="" data-close>
+    <div class="gallery-lightbox-close-btn-icon">
+      <svg viewBox="0 0 40 40">
+        <path d="M4.3,35.7L35.7,4.3"/>
+        <path d="M4.3,4.3l31.4,31.4"/>
+      </svg>
+    </div>
+  </button>
+</div>
+
+
+  <div class="gallery-lightbox-wrapper">
+    <div class="gallery-lightbox-list">
+      
+      <figure class="gallery-lightbox-item" data-slide-url="n6bpeozr1cyj57piaak6ph8wk860ra-5yyr7">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5d02d798cc25920001b61816/1587758139960-E6HIVHJV9ITG7B3AEHCY/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/lauren-winter-20150715-IMG_7450-v1-FINAL.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5d02d798cc25920001b61816/1587758139960-E6HIVHJV9ITG7B3AEHCY/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/lauren-winter-20150715-IMG_7450-v1-FINAL.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="lauren-winter-20150715-IMG_7450-v1-FINAL.jpg"  data-load="false" />
+              
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+      <figure class="gallery-lightbox-item" data-slide-url="20cnntnsm0cbt9h0gsygrj4rxtb4bv-x8l38">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5d02d798cc25920001b61816/1587758261288-OTRMED62HCYJ198J61UU/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/lauren-winter-20150715-IMG_0636-v1-FINAL.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5d02d798cc25920001b61816/1587758261288-OTRMED62HCYJ198J61UU/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/lauren-winter-20150715-IMG_0636-v1-FINAL.jpg" data-image-dimensions="2500x3750" data-image-focal-point="0.5,0.5" alt="lauren-winter-20150715-IMG_0636-v1-FINAL.jpg"  data-load="false" />
+              
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+    </div>
+
+    <div class="gallery-lightbox-controls">
+  <div class="gallery-lightbox-control" data-previous>
+    <button class="gallery-lightbox-control-btn" aria-label="">
+      <div class="gallery-lightbox-control-btn-icon">
+        <svg class="caret-left-icon--small" viewBox="0 0 9 16">
+          <polyline fill="none" stroke-miterlimit="10" points="7.3,14.7 2.5,8 7.3,1.2 "/>
+        </svg>
+      </div>
+    </button>
+  </div>
+  <div class="gallery-lightbox-control" data-next>
+    <button class="gallery-lightbox-control-btn" aria-label="">
+      <div class="gallery-lightbox-control-btn-icon">
+        <svg class="caret-right-icon--small" viewBox="0 0 9 16">
+          <polyline fill="none" stroke-miterlimit="10" points="1.6,1.2 6.5,7.9 1.6,14.7 "/>
+        </svg>
+      </div>
+    </button>
+  </div>
+</div>
+
+  </div>
+</div>
+
+  </div>
+</div>
+
+  
+
+  
+
+  
+
+  
+</div>
+        </div>
+      
+      
+      
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/costum</link>
+      <title>Custom</title>
+      <pubDate>Thu, 06 Aug 2020 19:11:31 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5f2160e2418ad86d463a621a" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5f282fb91e4a040f2e2b8407"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 2,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5f282fb91e4a040f2e2b8407"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1596473181141_8481"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">CUSTOM FINE JEWELLERY</h2><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></div></div><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="117.43295019157087" data-block-type="5" id="block-a292b161b763e9402e82"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-card
+            combination-animation-no-animation
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              
+              class="
+                
+                image-inset
+                
+                  content-fit
+                
+              "
+              data-animation-role="image"
+              data-description=""
+              
+  data-animation-override
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596471938569-CO41Z77XK2FC88QWX0UL/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/DSC00694%2C3.jpg" alt="“Life is too short to wear boring jewellery.” - With a custom William Scott piece you will get an exciting and unique piece of accessory to fit your personality and attitude. I will make your vision come to life in silver, 14 or 18 carat gold and precious stones. No idea is to far out and no idea is to small. Get in touch for further details and I will guide you through the process every step of the way. " /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596471938569-CO41Z77XK2FC88QWX0UL/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/DSC00694%2C3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596471938569-CO41Z77XK2FC88QWX0UL/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/DSC00694%2C3.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="DSC00694,3.jpg"  />
+            <div class="image-overlay"></div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  data-animation-override
+><h2 style="margin-left:40px;white-space:pre-wrap;"><em>“Life is too short to wear </em></h2><h2 style="margin-left:40px;white-space:pre-wrap;" data-rte-preserve-empty="true"></h2><h2 style="margin-left:40px;white-space:pre-wrap;"><em>boring jewellery.”</em></h2></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  data-animation-override
+><p class="" style="white-space:pre-wrap;">With a custom William Scott piece you will get an exciting and unique piece of accessory to fit your personality and attitude. I will make your vision come to life in silver, 14 or 18 carat gold and precious stones. No idea is to far out and no idea is to small. </p><p class="" style="white-space:pre-wrap;">Get in touch for further details and I will guide you through the process every step of the way. </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5f2b1cc53ad0a012d6230574"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot; : 10,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--medium&quot;,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;video&quot;
+}"
+  data-animation="none"
+  
+     style="min-height: 10vh;" 
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5f2b1cc53ad0a012d6230574"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block video-block sqs-block-video" data-block-json="&#123;&quot;blockAnimation&quot;:&quot;none&quot;,&quot;layout&quot;:&quot;caption-hidden&quot;,&quot;overlay&quot;:false,&quot;description&quot;:&#123;&quot;html&quot;:&quot;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&quot;&#125;,&quot;customThumb&quot;:&quot;5f2b23fa94bfa91f8c2a6513&quot;,&quot;html&quot;:&quot;&lt;iframe src=\&quot;//www.youtube.com/embed/dCoo0FJRzMQ?wmode=opaque&amp;amp;enablejsapi=1\&quot; height=\&quot;480\&quot; width=\&quot;854\&quot; scrolling=\&quot;no\&quot; frameborder=\&quot;0\&quot; allowfullscreen=\&quot;\&quot;&gt;\n&lt;/iframe&gt;&quot;,&quot;url&quot;:&quot;https://youtu.be/dCoo0FJRzMQ&quot;,&quot;thumbnailUrl&quot;:&quot;https://i.ytimg.com/vi/dCoo0FJRzMQ/hqdefault.jpg&quot;,&quot;resolvedBy&quot;:&quot;youtube&quot;&#125;" data-block-type="32" id="block-845b90d233468b75fcc2"><div class="sqs-block-content"><div class="sqs-video-wrapper" data-html="&lt;iframe src=&quot;//www.youtube.com/embed/dCoo0FJRzMQ?wmode=opaque&amp;enablejsapi=1&quot; height=&quot;480&quot; width=&quot;854&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;<br/>&lt;/iframe&gt;" data-provider-name=""></div></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      gallery-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5f2853ed2a1562482e514c18"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+        <div class="gallery gallery-section-wrapper" style="min-height: 100px;">
+          <div class="gallery" style="min-height: 100px;">
+  
+    <!-- Gallery Grid -->
+
+<div
+  class="gallery-grid gallery-grid--layout-grid"
+  data-controller="GalleryGrid"
+  data-section-id="5f2853ed2a1562482e514c18"
+  data-animation="site-default"
+  data-lightbox=""
+  data-width="full"
+  data-aspect-ratio="four-three"
+  data-columns="3"
+  data-gutter="6"
+  data-props='{
+  "aspectRatio" : "four-three",
+  "scrollAnimation" : "site-default",
+  "gutter" : 6,
+  "numColumns" : 3,
+  "width" : "full",
+  "lightboxEnabled" : false
+}'
+  data-show-captions="false"
+  data-gallery-caption-beta-flag="false"
+>
+  <div class="gallery-grid-wrapper">
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          
+          
+            
+          <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596738695583-8M7OWFBU9PFGSBNAXTBE/ke17ZwdGBToddI8pDm48kPJXHKy2-mnvrsdpGQjlhod7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmihaE5rlzFBImxTetd_yW5btdZx37rH5fuWDtePBPDaHF5LxdCVHkNEqSYPsUQCdT/DSC00707%2C2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596738695583-8M7OWFBU9PFGSBNAXTBE/ke17ZwdGBToddI8pDm48kPJXHKy2-mnvrsdpGQjlhod7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmihaE5rlzFBImxTetd_yW5btdZx37rH5fuWDtePBPDaHF5LxdCVHkNEqSYPsUQCdT/DSC00707%2C2.jpg" data-image-dimensions="1000x1000" data-image-focal-point="0.5,0.5" alt="DSC00707,2.jpg"  data-load="false" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          
+          
+            
+          <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596738748927-VQ2L0MMA6F3ISIOIHNJX/ke17ZwdGBToddI8pDm48kHzf_peVfJFvf7lxcXVLs_BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIfxDoES-0cS3L4kKt5td9HCEv2AQu9LREBRTm_qSlJlsKMshLAGzx4R3EDFOm1kBS/DSC00734%2C3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596738748927-VQ2L0MMA6F3ISIOIHNJX/ke17ZwdGBToddI8pDm48kHzf_peVfJFvf7lxcXVLs_BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIfxDoES-0cS3L4kKt5td9HCEv2AQu9LREBRTm_qSlJlsKMshLAGzx4R3EDFOm1kBS/DSC00734%2C3.jpg" data-image-dimensions="754x754" data-image-focal-point="0.5,0.5" alt="DSC00734,3.jpg"  data-load="false" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          
+          
+            
+          <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596738694691-R3332TN5B4JT5FQJ4PLW/ke17ZwdGBToddI8pDm48kHT9hiwLks0buR1k_EJEBiVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrZWFkIcF3Y4Nr9cfIdljfiKcVmOGBsAJfxDVw8Ok3isKMshLAGzx4R3EDFOm1kBS/DSC04485%2C2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596738694691-R3332TN5B4JT5FQJ4PLW/ke17ZwdGBToddI8pDm48kHT9hiwLks0buR1k_EJEBiVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrZWFkIcF3Y4Nr9cfIdljfiKcVmOGBsAJfxDVw8Ok3isKMshLAGzx4R3EDFOm1kBS/DSC04485%2C2.jpg" data-image-dimensions="908x908" data-image-focal-point="0.5,0.5" alt="DSC04485,2.jpg"  data-load="false" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          
+          
+            
+          <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478492454-592TIE046WJGITWGN8F4/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/02.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478492454-592TIE046WJGITWGN8F4/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/02.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="02.jpg"  data-load="false" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          
+          
+            
+          <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478501160-V5HASY6MN2KXBOMF1N4R/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/05.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478501160-V5HASY6MN2KXBOMF1N4R/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/05.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="05.jpg"  data-load="false" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          
+          
+            
+          <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478489312-740YD9K8QFY5L1AGDYTU/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/01.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478489312-740YD9K8QFY5L1AGDYTU/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/01.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="01.jpg"  data-load="false" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          
+          
+            
+          <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478503959-0M9OSKYJVIALZ7UJZOY7/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/08.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478503959-0M9OSKYJVIALZ7UJZOY7/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/08.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="08.jpg"  data-load="false" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          
+          
+            
+          <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478484475-ASXP1ZR8UIYNJ2W04L91/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/03.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478484475-ASXP1ZR8UIYNJ2W04L91/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/03.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="03.jpg"  data-load="false" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          
+          
+            
+          <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478504726-H57HROHXPKPS1T5SSSZ2/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/09.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478504726-H57HROHXPKPS1T5SSSZ2/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/09.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="09.jpg"  data-load="false" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          
+          
+            
+          <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478502934-JX2ZV8JM6JMW55RSME9G/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/07.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478502934-JX2ZV8JM6JMW55RSME9G/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/07.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="07.jpg"  data-load="false" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          
+          
+            
+          <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478493079-TFZP1WQN704Y7LIFG3H5/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/06.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478493079-TFZP1WQN704Y7LIFG3H5/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/06.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="06.jpg"  data-load="false" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          
+          
+            
+          <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478493000-J9GQORZ08IZYU5A6BHWS/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/04.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478493000-J9GQORZ08IZYU5A6BHWS/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/04.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="04.jpg"  data-load="false" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+  </div>
+  <div class="gallery-lightbox-outer-wrapper" data-lightbox="false" data-controller="Lightbox">
+    <div
+  role="dialog"
+  aria-label=""
+  class="gallery-lightbox ">
+  <div class="gallery-lightbox-background"></div>
+
+<div class="gallery-lightbox-header">
+  <button class="gallery-lightbox-close-btn" aria-label="" data-close>
+    <div class="gallery-lightbox-close-btn-icon">
+      <svg viewBox="0 0 40 40">
+        <path d="M4.3,35.7L35.7,4.3"/>
+        <path d="M4.3,4.3l31.4,31.4"/>
+      </svg>
+    </div>
+  </button>
+</div>
+
+
+  <div class="gallery-lightbox-wrapper">
+    <div class="gallery-lightbox-list">
+      
+      <figure class="gallery-lightbox-item" data-slide-url="dxtp5fru68hy2yobfws7ma00d03dkg">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596738695583-8M7OWFBU9PFGSBNAXTBE/ke17ZwdGBToddI8pDm48kPJXHKy2-mnvrsdpGQjlhod7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmihaE5rlzFBImxTetd_yW5btdZx37rH5fuWDtePBPDaHF5LxdCVHkNEqSYPsUQCdT/DSC00707%2C2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596738695583-8M7OWFBU9PFGSBNAXTBE/ke17ZwdGBToddI8pDm48kPJXHKy2-mnvrsdpGQjlhod7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmihaE5rlzFBImxTetd_yW5btdZx37rH5fuWDtePBPDaHF5LxdCVHkNEqSYPsUQCdT/DSC00707%2C2.jpg" data-image-dimensions="1000x1000" data-image-focal-point="0.5,0.5" alt="DSC00707,2.jpg"  data-load="false" />
+              
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+      <figure class="gallery-lightbox-item" data-slide-url="ix7v7rdlrhtqdtske4suhl3ak4mjox">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596738748927-VQ2L0MMA6F3ISIOIHNJX/ke17ZwdGBToddI8pDm48kHzf_peVfJFvf7lxcXVLs_BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIfxDoES-0cS3L4kKt5td9HCEv2AQu9LREBRTm_qSlJlsKMshLAGzx4R3EDFOm1kBS/DSC00734%2C3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596738748927-VQ2L0MMA6F3ISIOIHNJX/ke17ZwdGBToddI8pDm48kHzf_peVfJFvf7lxcXVLs_BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIfxDoES-0cS3L4kKt5td9HCEv2AQu9LREBRTm_qSlJlsKMshLAGzx4R3EDFOm1kBS/DSC00734%2C3.jpg" data-image-dimensions="754x754" data-image-focal-point="0.5,0.5" alt="DSC00734,3.jpg"  data-load="false" />
+              
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+      <figure class="gallery-lightbox-item" data-slide-url="elmb4cflshml3mxswvujo2s42ncub3">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596738694691-R3332TN5B4JT5FQJ4PLW/ke17ZwdGBToddI8pDm48kHT9hiwLks0buR1k_EJEBiVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrZWFkIcF3Y4Nr9cfIdljfiKcVmOGBsAJfxDVw8Ok3isKMshLAGzx4R3EDFOm1kBS/DSC04485%2C2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596738694691-R3332TN5B4JT5FQJ4PLW/ke17ZwdGBToddI8pDm48kHT9hiwLks0buR1k_EJEBiVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrZWFkIcF3Y4Nr9cfIdljfiKcVmOGBsAJfxDVw8Ok3isKMshLAGzx4R3EDFOm1kBS/DSC04485%2C2.jpg" data-image-dimensions="908x908" data-image-focal-point="0.5,0.5" alt="DSC04485,2.jpg"  data-load="false" />
+              
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+      <figure class="gallery-lightbox-item" data-slide-url="q8xgh0q8bz667q4hejxavgqnex4uc6">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478492454-592TIE046WJGITWGN8F4/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/02.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478492454-592TIE046WJGITWGN8F4/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/02.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="02.jpg"  data-load="false" />
+              
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+      <figure class="gallery-lightbox-item" data-slide-url="1kn2v75e0mv5fdevmkaa97noo875wh">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478501160-V5HASY6MN2KXBOMF1N4R/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/05.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478501160-V5HASY6MN2KXBOMF1N4R/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/05.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="05.jpg"  data-load="false" />
+              
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+      <figure class="gallery-lightbox-item" data-slide-url="7gn0jxnkxt0m8khee6k3o2cnpo77uy">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478489312-740YD9K8QFY5L1AGDYTU/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/01.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478489312-740YD9K8QFY5L1AGDYTU/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/01.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="01.jpg"  data-load="false" />
+              
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+      <figure class="gallery-lightbox-item" data-slide-url="y8ah2ekcg21v7hplrcr9kkhknromcj">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478503959-0M9OSKYJVIALZ7UJZOY7/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/08.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478503959-0M9OSKYJVIALZ7UJZOY7/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/08.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="08.jpg"  data-load="false" />
+              
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+      <figure class="gallery-lightbox-item" data-slide-url="q93jvrmgbnta9zuvlqro5qelfno4an">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478484475-ASXP1ZR8UIYNJ2W04L91/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/03.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478484475-ASXP1ZR8UIYNJ2W04L91/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/03.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="03.jpg"  data-load="false" />
+              
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+      <figure class="gallery-lightbox-item" data-slide-url="9kjj2wohpb97p2kg5olmmrivw3i9dv">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478504726-H57HROHXPKPS1T5SSSZ2/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/09.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478504726-H57HROHXPKPS1T5SSSZ2/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/09.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="09.jpg"  data-load="false" />
+              
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+      <figure class="gallery-lightbox-item" data-slide-url="9d3tnxa6kockxneyw40pto72ljdp1t">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478502934-JX2ZV8JM6JMW55RSME9G/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/07.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478502934-JX2ZV8JM6JMW55RSME9G/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/07.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="07.jpg"  data-load="false" />
+              
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+      <figure class="gallery-lightbox-item" data-slide-url="naex6h8fq2dhl9og90ny3qwimsssp6">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478493079-TFZP1WQN704Y7LIFG3H5/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/06.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478493079-TFZP1WQN704Y7LIFG3H5/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/06.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="06.jpg"  data-load="false" />
+              
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+      <figure class="gallery-lightbox-item" data-slide-url="j9xydbqdijq0m3ccbgph41igz7depn">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478493000-J9GQORZ08IZYU5A6BHWS/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/04.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596478493000-J9GQORZ08IZYU5A6BHWS/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/04.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="04.jpg"  data-load="false" />
+              
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+    </div>
+
+    <div class="gallery-lightbox-controls">
+  <div class="gallery-lightbox-control" data-previous>
+    <button class="gallery-lightbox-control-btn" aria-label="">
+      <div class="gallery-lightbox-control-btn-icon">
+        <svg class="caret-left-icon--small" viewBox="0 0 9 16">
+          <polyline fill="none" stroke-miterlimit="10" points="7.3,14.7 2.5,8 7.3,1.2 "/>
+        </svg>
+      </div>
+    </button>
+  </div>
+  <div class="gallery-lightbox-control" data-next>
+    <button class="gallery-lightbox-control-btn" aria-label="">
+      <div class="gallery-lightbox-control-btn-icon">
+        <svg class="caret-right-icon--small" viewBox="0 0 9 16">
+          <polyline fill="none" stroke-miterlimit="10" points="1.6,1.2 6.5,7.9 1.6,14.7 "/>
+        </svg>
+      </div>
+    </button>
+  </div>
+</div>
+
+  </div>
+</div>
+
+  </div>
+</div>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</div>
+        </div>
+      
+      
+      
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>costum</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact</link>
+      <title>Contact</title>
+      <pubDate>Thu, 06 Aug 2020 21:06:13 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5f2173087e40ec445e20c7d7" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--inset
+    
+      section-height--large
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5f21cafe8f0c783412a778d4"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--inset&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--large&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--medium&quot;,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5f21cafe8f0c783412a778d4"><div class="row sqs-row"><div class="col sqs-col-5 span-5"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-f1906426699157315744"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">CONTACT</h3><p class="" style="white-space:pre-wrap;">William Scott                                                                                                    Adresse                                                                                            </p><p class="" style="white-space:pre-wrap;">Info@will-sctt.com                                                                                   +45 ????????                                             </p><p class="sqsrte-small" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-892811507d8b24e060bb"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1596747875236_4606"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">Feel free to contact me and I will respond within 24 hours. </p></div></div><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-c370d44f85a8c7f97de9"><div class="sqs-block-content">
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="5f21cafe8f0c783412a778d2"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://lynx-sphere-s9s9.squarespace.com"
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '5f21cafe8f0c783412a778d2',
+      collectionId: '5f2173087e40ec445e20c7d8',
+      objectName: 'page-section-5f21cafe8f0c783412a778d4'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1553888888520_3744" class="form-item fields name required">
+                
+            <legend class="title">
+              Name
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1553888888520_3745" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1553888888520_3745-field">
+              Email
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1553888888520_3745-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1553888888520_3747" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1553888888520_3747-field">
+              Message
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1553888888520_3747-field"
+                    
+                    aria-required="true"
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-center
+          
+        "
+      >
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Send"/>
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text">Thank you!</div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about</link>
+      <title>About</title>
+      <pubDate>Thu, 06 Aug 2020 19:12:42 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5f217d007550ee493041f7bf" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5f21c3484119547a5e0ca5a5"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 2,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5f21c3484119547a5e0ca5a5"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="117.43295019157087" data-block-type="5" id="block-f2d872184fc18f62693a"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-card
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              
+              class="
+                
+                image-inset
+                
+                  content-fit
+                
+              "
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596483291912-4AP30Y6EGS9GHG6XII6N/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/DSC01060%2C4.jpg" alt="“Ever since I can remember, I’ve been passionate about craftsmanship and been drawn to creating. ” - — William Scott" /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596483291912-4AP30Y6EGS9GHG6XII6N/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/DSC01060%2C4.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5f215e928e24187c67415fc1/1596483291912-4AP30Y6EGS9GHG6XII6N/ke17ZwdGBToddI8pDm48kJUlZr2Ql5GtSKWrQpjur5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfNdxJhjhuaNor070w_QAc94zjGLGXCa1tSmDVMXf8RUVhMJRmnnhuU1v2M8fLFyJw/DSC01060%2C4.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="DSC01060,4.jpg"  />
+            <div class="image-overlay"></div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  
+><h3 style="white-space:pre-wrap;">“Ever since I can remember, I’ve been passionate about craftsmanship and been drawn to creating. ”</h3></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  
+><p class="" style="white-space:pre-wrap;">— William Scott</p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    white'
+  data-section-id="5f21c3e2509f742614e28807"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot; : 10,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot; : 82,
+  &quot;sectionTheme&quot; : &quot;white&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5f21c3e2509f742614e28807"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-91b2e2541fe353065492"><div class="sqs-block-content"><h4 style="margin-left:40px;white-space:pre-wrap;">THE IMPULSE</h4><p style="margin-left:40px;white-space:pre-wrap;" class="">Despite the endless number of jewelry brands out there, I rarely&nbsp;found something that suited my taste.</p><p style="margin-left:40px;white-space:pre-wrap;" class="">Because of this, I’m on a mission to create unique and different jewelry for individuals who refuses to settle - both for men and women.</p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-eaee968e5abc6860c5aa"><div class="sqs-block-content"><h4 style="margin-left:40px;white-space:pre-wrap;">THE PROCESS</h4><p style="margin-left:40px;white-space:pre-wrap;" class="">Everything from the initial conceptualizing and designing, sourcing the gemstones, casting and finishing, is made by me.</p><p style="margin-left:40px;white-space:pre-wrap;" class="">This makes every piece of jewelry that comes out of the workshop&nbsp;unique, authentic and personally handcrafted with respect for tradition. </p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-19f74e2ffafd54199207"><div class="sqs-block-content"><h4 style="white-space:pre-wrap;">THE COLLABORATION</h4><p class="" style="white-space:pre-wrap;">Besides my collection I offer customized jewellery for all ages and genders. Together we will design contemporary jewellery that will make you stand out from the crowd. </p><p class="" style="white-space:pre-wrap;">Get in touch and lets work together.   </p></div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1596049181850_8183"><div class="sqs-block-content">
+
+<div class="sqs-block-button-container--left" data-animation-role="button" data-alignment="left" data-button-size="small">
+	<a href="/contact" class="sqs-block-button-element--small sqs-block-button-element" >Contact</a>
+</div>
+</div></div></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>about</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
